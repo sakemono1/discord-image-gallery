@@ -7,6 +7,12 @@ async function loadImages() {
     try {
         const response = await fetch("images.json");
         images = await response.json();
+
+        // 첫 번째 명령어를 기준으로 가나다순 정렬
+        images.sort((a, b) =>
+            a.commands[0].localeCompare(b.commands[0], "ko")
+        );
+
         renderGallery(images);
     } catch (error) {
         gallery.textContent = "이미지 목록을 불러오지 못했습니다...";
