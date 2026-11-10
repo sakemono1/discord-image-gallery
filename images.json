@@ -1,6 +1,971 @@
 [
     {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/G4600.png",
+        "commands": [
+            "g4600"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/WAAT.png",
+        "commands": [
+            "뭐임"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/ai.png",
+        "commands": [
+            "휴먼"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/and.gif",
+        "commands": [
+            "and",
+            "그리고"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/angmudead.gif",
+        "commands": [
+            "앵무사망"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/angmuhmm.gif",
+        "commands": [
+            "앵무흠"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/angmumask.gif",
+        "commands": [
+            "앵무마스크"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/angmunope.gif",
+        "commands": [
+            "앵무정색"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/angmutears.gif",
+        "commands": [
+            "앵무눈물"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/aprove.gif",
+        "commands": [
+            "가능"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/baba.gif",
+        "commands": [
+            "바바",
+            "baba"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/babo.gif",
+        "commands": [
+            "바보",
+            "babo"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/best.gif",
+        "commands": [
+            "최고",
+            "best"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/bestsn.png",
+        "commands": [
+            "성능확실"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/boltfire.png",
+        "commands": [
+            "볼트활활"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/boltmastur.png",
+        "commands": [
+            "볼트딸딸"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/boltsnipe.png",
+        "commands": [
+            "볼트저격"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/boltvomit.png",
+        "commands": [
+            "볼트구토"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/break.gif",
+        "commands": [
+            "파킨"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/bug.gif",
+        "commands": [
+            "버그"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/clap1.gif",
+        "commands": [
+            "털박수"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/clap2.gif",
+        "commands": [
+            "털박수2"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/clap3.gif",
+        "commands": [
+            "털박수3"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/cleanhand.png",
+        "commands": [
+            "손도깔끔"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/click.gif",
+        "commands": [
+            "광클"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/clown.png",
+        "commands": [
+            "광대",
+            "살자"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/coffee.gif",
+        "commands": [
+            "커피",
+            "맥스"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/comfort.jpg",
+        "commands": [
+            "편안"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/confuse.gif",
+        "commands": [
+            "앵무혼란"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/cute.gif",
+        "commands": [
+            "cute",
+            "귀엽다"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/dasiboni.gif",
+        "commands": [
+            "선녀",
+            "다시보니"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/deaddance.gif",
+        "commands": [
+            "관짝댄스",
+            "관짝"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/defeat.gif",
+        "commands": [
+            "패배",
+            "defeat"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/dokidoki.gif",
+        "commands": [
+            "두근두근"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/doubleangmu.gif",
+        "commands": [
+            "더블앵무"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/dullicareful.png",
+        "commands": [
+            "처신"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/dullikk.png",
+        "commands": [
+            "둘리ㅋㅋ",
+            "둘맄ㅋ"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/dulliwtf.png",
+        "commands": [
+            "선넘네"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/empty.gif",
+        "commands": [
+            "empty",
+            "공허"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/explode.gif",
+        "commands": [
+            "폭발",
+            "폭사"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/finally.png",
+        "commands": [
+            "마참내"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/fingersnap.gif",
+        "commands": [
+            "파스스"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/fun.png",
+        "commands": [
+            "즐겁다"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/fur.gif",
+        "commands": [
+            "털"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/fur2.gif",
+        "commands": [
+            "털2"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/furhmm.jpg",
+        "commands": [
+            "털흠",
+            "퍼리흠"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/goguma.jpg",
+        "commands": [
+            "호구마",
+            "호박고구마"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/golden.gif",
+        "commands": [
+            "골든",
+            "golden"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/goldenfun.png",
+        "commands": [
+            "골든즐겁다"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/goodgood.png",
+        "commands": [
+            "참잘",
+            "참잘했어요"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/good.png",
+        "commands": [
+            "잘했어요"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/goodgun.jpg",
+        "commands": [
+            "굳건"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/gukbbong.gif",
+        "commands": [
+            "펄럭",
+            "국뽕"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/hamnono.png",
+        "commands": [
+            "싫어"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/hen.png",
+        "commands": [
+            "이상",
+            "이상하다"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/henhmm.gif",
+        "commands": [
+            "왜곡흠"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/hey.jpg",
+        "commands": [
+            "털붕쿤"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/highkicktastegood.jpg",
+        "commands": [
+            "맛있다"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/hitomi.gif",
+        "commands": [
+            "히토미"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/hmm.jpg",
+        "commands": [
+            "흠"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/hugme.png",
+        "commands": [
+            "안아줘요"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/huhu.jpg",
+        "commands": [
+            "흐흐"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/iknewit.gif",
+        "commands": [
+            "의도된",
+            "의도"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/ipungdangdang.gif",
+        "commands": [
+            "이풍당당",
+            "이풍"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/is.gif",
+        "commands": [
+            "는",
+            "is"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/jerryfux.gif",
+        "commands": [
+            "제리단죄"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/jerryhi.gif",
+        "commands": [
+            "제리하이"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/jerrylol.gif",
+        "commands": [
+            "제리폭소"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/jerrythanks.gif",
+        "commands": [
+            "제리감사",
+            "제리감사1"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/jerrythanks2.gif",
+        "commands": [
+            "제리감사2"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/jerrythanks3.gif",
+        "commands": [
+            "제리감사3"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/jerrythanks4.gif",
+        "commands": [
+            "제리감사4"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/knock.gif",
+        "commands": [
+            "제리깡깡"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/late.gif",
+        "commands": [
+            "지각",
+            "late"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/love.gif",
+        "commands": [
+            "사랑",
+            "love"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/marketing.jpg",
+        "commands": [
+            "마케팅"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/me.gif",
+        "commands": [
+            "나",
+            "me"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/mono.gif",
+        "commands": [
+            "모노",
+            "mono"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/munpung.gif",
+        "commands": [
+            "문풍",
+            "문풍당당"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/mustadance.gif",
+        "commands": [
+            "무스타댄스"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/nocolor.jpg",
+        "commands": [
+            "색약",
+            "색약흠"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/nooooo.gif",
+        "commands": [
+            "않이",
+            "않이이"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/not.gif",
+        "commands": [
+            "아니다",
+            "not"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/nyanheart.gif",
+        "commands": [
+            "냥하트",
+            "모모하트"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/old.gif",
+        "commands": [
+            "틀딱",
+            "틀",
+            "늙"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/ours.gif",
+        "commands": [
+            "우리의",
+            "ours"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/pepeno.png",
+        "commands": [
+            "페페아니"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/pepeyes.png",
+        "commands": [
+            "페페응"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/pills.jpg",
+        "commands": [
+            "영양제"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/readyfordead.gif",
+        "commands": [
+            "관짝준비"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/rgb.gif",
+        "commands": [
+            "rgb차이",
+            "rgb"
+        ]
+    },
+    {
         "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/sake.gif",
-        "commands": ["사케"]
+        "commands": [
+            "사케",
+            "sake"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/sakethank.gif",
+        "commands": [
+            "사케감사"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/sanic.png",
+        "commands": [
+            "쎄닉"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/santa.gif",
+        "commands": [
+            "산타",
+            "santa"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/save.gif",
+        "commands": [
+            "저장",
+            "save"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/sexy.gif",
+        "commands": [
+            "펀쿨섹",
+            "펀쿨",
+            "펀쿨끄덕"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/sibal.png",
+        "commands": [
+            "싯팔",
+            "아이싯팔"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/smoketime.gif",
+        "commands": [
+            "담타",
+            "담타회전"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/socool.png",
+        "commands": [
+            "멋있다"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/sov.gif",
+        "commands": [
+            "소련"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/speakdead.gif",
+        "commands": [
+            "난죽택"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/stop.gif",
+        "commands": [
+            "멈춰",
+            "stop"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/stream.gif",
+        "commands": [
+            "방송",
+            "stream"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/thatis.jpg",
+        "commands": [
+            "그건니가",
+            "그건"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/ulele.png",
+        "commands": [
+            "앨랠래",
+            "엘렐레"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/uncomfort.jpg",
+        "commands": [
+            "불편"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/wa.jpg",
+        "commands": [
+            "샌즈",
+            "WA",
+            "와"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/waist.gif",
+        "commands": [
+            "허리"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/want.gif",
+        "commands": [
+            "줘",
+            "원해",
+            "want"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/we.gif",
+        "commands": [
+            "우리",
+            "we"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/webberdance.gif",
+        "commands": [
+            "웨버댄스"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/welcome.png",
+        "commands": [
+            "어서오고"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/win.gif",
+        "commands": [
+            "이기다",
+            "win"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/yes.png",
+        "commands": [
+            "ㅖ",
+            "예"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/you.gif",
+        "commands": [
+            "너",
+            "you"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/shanshen.gif",
+        "commands": [
+            "샨센부",
+            "샨센뷰",
+            "쌴센부",
+            "쌴쎈부"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/rungdung.gif",
+        "commands": [
+            "룽둥쾅",
+            "룽둥꽝",
+            "룽둥"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/sumga.gif",
+        "commands": [
+            "슴가",
+            "터질듯한슴가"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/pom.jpg",
+        "commands": [
+            "폼페이",
+            "키에엑"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/nononono.jpg",
+        "commands": [
+            "아뇨",
+            "아뇨아뇨"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/honey.jpg",
+        "commands": [
+            "개꿀",
+            "야르"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/zzam.jpg",
+        "commands": [
+            "짬뽕",
+            "웃기는짬뽕"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/chibi.gif",
+        "commands": [
+            "치비혼란",
+            "혼란치비"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/catdance.gif",
+        "commands": [
+            "캣댄스",
+            "제트팩캣댄스",
+            "냥댄스"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/ummm.jpg",
+        "commands": [
+            "엄"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/youknow.gif",
+        "commands": [
+            "꼬우면"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/bunbab.gif",
+        "commands": [
+            "토끼밥"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/bunhaha.png",
+        "commands": [
+            "푸하하"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/dont.gif",
+        "commands": [
+            "이거놔"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/gomnope.png",
+        "commands": [
+            "싫은데요"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/gonow.png",
+        "commands": [
+            "지금가요"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/hello.png",
+        "commands": [
+            "반가워요"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/missmiss.png",
+        "commands": [
+            "애애앵",
+            "애앵",
+            "에에엥",
+            "에엥"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/mouseum.png",
+        "commands": [
+            "쥐당황",
+            "당황쥐"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/musangry.png",
+        "commands": [
+            "화났어요"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/notend.png",
+        "commands": [
+            "끝아님"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/nyanbab.gif",
+        "commands": [
+            "냥밥"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/nyanbbal.gif",
+        "commands": [
+            "냥빨"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/nyankiss.gif",
+        "commands": [
+            "냥뽀뽀"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/nyanlol.gif",
+        "commands": [
+            "냥폭소"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/nyanpunch.gif",
+        "commands": [
+            "냥펀치"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/returnbun.gif",
+        "commands": [
+            "토끼반납"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/stealbun.gif",
+        "commands": [
+            "토끼납치"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/tastegood.png",
+        "commands": [
+            "먹을만",
+            "먹을만하네요"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/uang.png",
+        "commands": [
+            "으아아앙",
+            "으아앙"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/weird.png",
+        "commands": [
+            "이상해요"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/whatcat.jpg",
+        "commands": [
+            "예에?",
+            "예?"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/youbad.png",
+        "commands": [
+            "나빴어"
+        ]
     }
 ]
