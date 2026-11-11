@@ -963,6 +963,12 @@
         ]
     },
     {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/bunpunch.gif",
+        "commands": [
+            "토끼펀치"
+        ]
+    },
+    {
         "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/youbad.png",
         "commands": [
             "나빴어"
