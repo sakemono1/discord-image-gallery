@@ -975,6 +975,17 @@
         ]
     },
     {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/bunkick.gif",
+        "commands": [
+            "렛짜고",
+            "렛츠고",
+            "나선렛츠고",
+            "나선렛짜고",
+            "내순렛짜고",
+            "내순렛츠고"
+        ]
+    },
+    {
         "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/youbad.png",
         "commands": [
             "나빴어"
