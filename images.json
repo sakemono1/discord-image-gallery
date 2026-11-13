@@ -975,6 +975,20 @@
         ]
     },
     {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/nohuman.png",
+        "commands": [
+            "사람아니야",
+            "낫휴먼"
+        ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/human.png",
+        "commands": [
+            "사람이야",
+            "휴먼"
+        ]
+    },
+    {
         "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/glre.gif",
         "commands": [
             "글1레",
