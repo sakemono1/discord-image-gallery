@@ -969,6 +969,12 @@
         ]
     },
     {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/bunkick.gif",
+        "commands": [
+            "토끼킥"
+        ]
+    },
+    {
         "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/youbad.png",
         "commands": [
             "나빴어"
