@@ -975,6 +975,13 @@
         ]
     },
     {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/glre.gif",
+        "commands": [
+            "글1레",
+            "글1레이시아"
+        ]
+    },
+    {
         "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/nasun_letsgo.png",
         "commands": [
             "렛짜고",
