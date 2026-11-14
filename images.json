@@ -1032,5 +1032,11 @@
         "commands": [
             "나빴어"
         ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/gaechu.jpg",
+        "commands": [
+            "개추"
+        ]
     }
 ]
