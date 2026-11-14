@@ -1007,6 +1007,20 @@
         ]
     },
     {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/bunspin.gif",
+        "commands": [
+            "토끼스핀",
+            "토끼회전"
+        ]
+    },
+        {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/bunspin2.gif",
+        "commands": [
+            "토끼스핀2",
+            "토끼회전2"
+        ]
+    },
+    {
         "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/youbad.png",
         "commands": [
             "나빴어"
