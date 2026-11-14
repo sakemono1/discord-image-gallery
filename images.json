@@ -1020,6 +1020,13 @@
             "토끼회전2"
         ]
     },
+        {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/blre.gif",
+        "commands": [
+            "블1래",
+            "블1래키"
+        ]
+    },
     {
         "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/youbad.png",
         "commands": [
