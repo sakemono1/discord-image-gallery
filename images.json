@@ -1034,6 +1034,13 @@
         ]
     },
     {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/takagood",
+        "commands": [
+            "타카굿",
+            "구우웃"
+        ]
+    },
+    {
         "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/gaechu.jpg",
         "commands": [
             "개추"
