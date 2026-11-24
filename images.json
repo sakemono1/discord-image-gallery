@@ -1057,5 +1057,13 @@
         "commands": [
             "개추"
         ]
+    },
+    {
+        "image": "https://raw.githubusercontent.com/sakemono1/discord-bot-images/main/catnerd.jpg",
+        "commands": [
+            "아그건말이지",
+            "아그건",
+            "설명"
+        ]
     }
 ]
