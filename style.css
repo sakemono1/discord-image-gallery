@@ -92,3 +92,57 @@ main {
     color: #999999;
     font-size: 12px;
 }
+
+/* 이미지 오버레이 */
+.image-wrap {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    overflow: hidden;
+    background: #1d1e23;
+}
+
+.image-wrap img {
+    width: 100%;
+    height: 100%;
+    aspect-ratio: auto;
+    object-fit: contain;
+    transition: filter 0.2s ease;
+}
+
+/* 명령어 목록 */
+.command-overlay {
+    position: absolute;
+    inset: 0;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+
+    padding: 8px;
+    background: rgba(0, 0, 0, 0.6);
+    color: white;
+
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+
+    opacity: 0;
+    transition: opacity 0.2s ease;
+
+    pointer-events: none;
+    overflow-y: auto;
+}
+
+/* 마우스오버 효과 */
+@media (hover: hover) and (pointer: fine) {
+    .card:hover .command-overlay {
+        opacity: 1;
+    }
+
+    .card:hover .image-wrap img {
+        filter: brightness(0.4);
+    }
+}
