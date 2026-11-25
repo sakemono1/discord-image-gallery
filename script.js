@@ -27,34 +27,56 @@ function renderGallery(list) {
         const card = document.createElement("div");
         card.className = "card";
 
+        // 이미지 영역
+        const imageWrap = document.createElement("div");
+        imageWrap.className = "image-wrap";
+
         const img = document.createElement("img");
         img.src = item.image;
         img.alt = item.commands.join(", ");
 
+        // 마우스오버 시 표시할 명령어 목록
+        const overlay = document.createElement("div");
+        overlay.className = "command-overlay";
+
+        item.commands.forEach(cmd => {
+            const line = document.createElement("div");
+            line.textContent = "~" + cmd;
+            overlay.appendChild(line);
+        });
+
+        imageWrap.appendChild(img);
+        imageWrap.appendChild(overlay);
+
+        // 카드 하단 정보
         const info = document.createElement("div");
         info.className = "card-info";
 
         const title = document.createElement("p");
         title.textContent = item.commands[0];
 
-        const command = document.createElement("span");
-        command.textContent = "~" + item.commands[0];
+        const commandLabel = document.createElement("span");
+        commandLabel.textContent = "~" + item.commands[0];
 
         info.appendChild(title);
-        info.appendChild(command);
+        info.appendChild(commandLabel);
 
-        card.appendChild(img);
+        card.appendChild(imageWrap);
         card.appendChild(info);
 
+        // 클릭하면 첫 번째 명령어 복사
         card.addEventListener("click", async () => {
             try {
                 await navigator.clipboard.writeText(
                     "~" + item.commands[0]
                 );
-                command.textContent = "복사 완료!";
+
+                commandLabel.textContent = "복사 완료!";
+
                 setTimeout(() => {
-                    command.textContent = "~" + item.commands[0];
+                    commandLabel.textContent = "~" + item.commands[0];
                 }, 1200);
+
             } catch (error) {
                 console.error("복사 실패:", error);
             }
